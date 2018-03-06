@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Designing products and experiences that create value for your customers and your business. 
+Product and experience design. 
 
 <!-- original stuff from template
 
