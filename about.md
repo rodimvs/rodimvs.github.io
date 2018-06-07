@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Product and experience design. 
+Product and experience design...
 
 <!-- original stuff from template
 
